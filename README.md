@@ -1,1 +1,3 @@
 # hugo-mock-landing-page
+
+This GitHub Actions workflow automatically builds and deploys a Hugo website to GitHub Pages whenever changes are pushed to the main branch. It first checks out the full repository, including any theme submodules, and initializes the specified version of Hugo with extended features enabled. It then compiles the static site using hugo -D, which includes draft content, performs garbage collection, and minifies the output. Finally, the built site is deployed to the gh-pages branch using the peaceiris/actions-gh-pages action, which handles publishing via GitHub Pages using the repository’s built-in GitHub token. This setup ensures a smooth and automated workflow for deploying updates to your Hugo-powered site.
