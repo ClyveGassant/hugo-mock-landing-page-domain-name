@@ -1,6 +1,6 @@
-author = "Filipe Carneiro"
-baseURL = 'http://localhost:65145/hugo-bootstrap-theme/'
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+author = "Clyve Gassant"
+baseURL = 'https://ClyveGassant.github.io/hugo-mock-landing-page/'
+copyright = "Clyve Gassant"
 title = "Brain Chip Memory Recorder"
 
 timeZone = 'Europe/London'
