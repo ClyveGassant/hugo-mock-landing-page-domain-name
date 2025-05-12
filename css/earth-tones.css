@@ -1,0 +1,196 @@
+/* Earth Tone Color Overrides */
+
+:root {
+    --bd-brown: #5d4037;
+    --bd-tan: #8d6e63;
+    --bd-accent: #d7ccc8;
+    --bd-tan-rgb: 141, 110, 99;
+    --bd-accent-rgb: 215, 204, 200;
+    --bd-terracotta-rgb: 165, 70, 50;
+
+    --bs-primary: #8d6e63;
+    --bs-primary-rgb: 141, 110, 99;
+    --bs-secondary: #a1887f;
+    --bs-secondary-rgb: 161, 136, 127;
+    --bs-success: #5d4037;
+    --bs-success-rgb: 93, 64, 55;
+    --bs-info: #bcaaa4;
+    --bs-info-rgb: 188, 170, 164;
+    --bs-warning: #d7ccc8;
+    --bs-warning-rgb: 215, 204, 200;
+    --bs-danger: #795548;
+    --bs-danger-rgb: 121, 85, 72;
+    --bs-light: #efebe9;
+    --bs-light-rgb: 239, 235, 233;
+    --bs-dark: #3e2723;
+    --bs-dark-rgb: 62, 39, 35;
+}
+
+/* Main background & text */
+body {
+    background-color: #f5f5f5;
+    color: #3e2723;
+}
+
+/* Navigation bar */
+.navbar {
+    background-color: #8d6e63 !important;
+    background-image: linear-gradient(to bottom, rgba(141, 110, 99, 1), rgba(141, 110, 99, 0.95)) !important;
+    box-shadow: 0 0.5rem 1rem rgba(62, 39, 35, 0.15), inset 0 -1px 0 rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Logo styling */
+.navbar-brand img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    margin-right: 10px;
+    filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.3));
+}
+
+.bd-masthead img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.2));
+}
+
+/* Masthead section */
+.home .bd-masthead {
+    background-image: linear-gradient(180deg, rgba(245, 245, 245, 0.01), rgba(245, 245, 245, 1) 85%),
+        radial-gradient(ellipse at top left, rgba(141, 110, 99, 0.5), transparent 50%),
+        radial-gradient(ellipse at top right, rgba(215, 204, 200, 0.5), transparent 50%),
+        radial-gradient(ellipse at center right, rgba(141, 110, 99, 0.5), transparent 50%),
+        radial-gradient(ellipse at center left, rgba(165, 70, 50, 0.5), transparent 50%) !important;
+}
+
+/* Text colors */
+.text-earth {
+    color: #5d4037 !important;
+}
+
+.text-clay {
+    color: #a1887f !important;
+}
+
+.text-sand {
+    color: #d7ccc8 !important;
+}
+
+.text-violet {
+    color: #5d4037 !important;
+}
+
+/* Background colors */
+.bg-earth {
+    background-color: #5d4037 !important;
+}
+
+.bg-clay {
+    background-color: #a1887f !important;
+}
+
+.bg-sand {
+    background-color: #d7ccc8 !important;
+}
+
+/* Button styles */
+.btn-bd-primary {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #8d6e63;
+    --bs-btn-border-color: #8d6e63;
+    --bs-btn-border-radius: .5rem;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #735148;
+    --bs-btn-hover-border-color: #735148;
+    --bs-btn-focus-shadow-rgb: 141, 110, 99;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #5d4037;
+    --bs-btn-active-border-color: #5d4037;
+}
+
+.btn-primary {
+    background-color: #8d6e63;
+    border-color: #8d6e63;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #735148;
+    border-color: #735148;
+}
+
+.btn-primary:active {
+    background-color: #5d4037 !important;
+    border-color: #5d4037 !important;
+}
+
+/* Links */
+a {
+    color: #5d4037;
+}
+
+a:hover {
+    color: #3e2723;
+}
+
+/* Footer Contact Link */
+.nav-item a.text-earth {
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.nav-item a.text-earth:hover {
+    color: #8d6e63 !important;
+    transform: translateY(-2px);
+}
+
+.nav-item a.text-earth i {
+    margin-right: 5px;
+}
+
+/* Shadows */
+.earthy-shadow {
+    box-shadow: 0 0.5rem 1rem rgba(62, 39, 35, 0.15) !important;
+}
+
+/* Cards */
+.card {
+    border-color: #bcaaa4;
+}
+
+.card-header {
+    background-color: #efebe9;
+}
+
+/* Feature icons */
+.feather {
+    color: #5d4037;
+}
+
+.fa-brain,
+.fa-share-alt,
+.fa-calendar-alt {
+    color: #5d4037;
+}
+
+/* Feature headings */
+h2.h2 {
+    color: #5d4037;
+}
+
+/* Primary sections */
+.section {
+    background-color: #fff;
+}
+
+/* Secondary sections */
+.section-secondary {
+    background-color: #efebe9;
+}
+
+/* Improve contrast for accessibility */
+.text-muted {
+    color: #6d4c41 !important;
+}
