@@ -2,9 +2,9 @@
 title: "Code of Conduct"
 description: "Contributor Covenant Code of Conduct"
 draft: false
-menu:
-  footer:
-    weight: 10
+# menu:
+#   footer:
+#     weight: 10
 ---
 
 # Contributor Covenant Code of Conduct

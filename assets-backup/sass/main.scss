@@ -1,0 +1,12 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here
+@import "variable-overrides";
+
+// Import Bootstrap directly
+@import "bootstrap";
+
+// Theme and Site SASS
+@import "custom"; // Custom SASS
+@import "styles"; // Site SASS

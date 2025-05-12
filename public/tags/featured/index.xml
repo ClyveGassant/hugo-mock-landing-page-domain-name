@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Featured on Hugo Bootstrap Theme</title>
+    <title>Featured on Brain Chip Memory Recorder</title>
     <link>http://localhost:1313/hugo-bootstrap-theme/tags/featured/</link>
-    <description>Recent content in Featured on Hugo Bootstrap Theme</description>
+    <description>Recent content in Featured on Brain Chip Memory Recorder</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
-    <lastBuildDate>Mon, 12 May 2025 01:08:44 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 01:36:52 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/hugo-bootstrap-theme/tags/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Bootstrap Theme alpha</title>
@@ -29,6 +29,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugo-bootstrap-theme/page/bootstrap-components/</guid>
       <description>&lt;h1 id=&#34;bootstrap-components&#34;&gt;Bootstrap Components&lt;/h1&gt;&#xA;&lt;p&gt;Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;accordion&#34;&gt;Accordion&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://getbootstrap.com/docs/5.3/components/accordion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Accordion documentation&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;alert&#34;&gt;Alert&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://getbootstrap.com/docs/5.3/components/alerts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alert documentation&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;badge&#34;&gt;Badge&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Rounded pill&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugo Front Matter 🦉</title>
+      <link>http://localhost:1313/hugo-bootstrap-theme/page/hugo-front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-bootstrap-theme/page/hugo-front-matter/</guid>
+      <description>Hugo allows you to add front matter in yaml, toml, or json to your content files. Read on to know more about predefined and user-defined front matter variables.</description>
     </item>
     <item>
       <title>Markdown Cheat Sheet Ⓜ️⬇️</title>

@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/authors/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T01:48:08-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/authors/bj%C3%B8rn-erik-pedersen/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/categories/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/tags/hugo/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T01:48:08-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T03:17:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo-bootstrap-theme/categories/</loc>
+    <lastmod>2025-05-12T01:48:08-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo-bootstrap-theme/tags/hugo/</loc>
+    <lastmod>2025-05-12T01:48:08-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/categories/hugo-release-notes/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T01:48:08-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/post/hugo-v0-119/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T01:48:08-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/tags/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T02:47:28-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/tags/bootstrap/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T01:36:52-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -68,22 +68,27 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/tags/featured/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T01:36:52-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/categories/hugo-bootstrap-theme/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T01:36:52-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/post/hugo-bootstrap-theme/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T01:36:52-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/post/hugo-v0-99/</loc>
     <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo-bootstrap-theme/contact/</loc>
+    <lastmod>2025-05-12T02:47:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -102,13 +107,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/code-of-conduct/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <loc>http://localhost:1313/hugo-bootstrap-theme/privacy-policy/</loc>
+    <lastmod>2025-05-12T02:47:28-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/contact/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <loc>http://localhost:1313/hugo-bootstrap-theme/code-of-conduct/</loc>
+    <lastmod>2025-05-12T03:17:09-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -118,6 +123,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/authors/filipe-carneiro/</loc>
+    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo-bootstrap-theme/page/hugo-front-matter/</loc>
     <lastmod>2025-05-12T01:08:44-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -138,12 +148,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/tags/privacy/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/privacy-policy/</loc>
-    <lastmod>2025-05-12T01:08:44-04:00</lastmod>
+    <lastmod>2025-05-12T02:47:28-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

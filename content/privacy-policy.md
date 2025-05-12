@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "Clyve Gassant 2025"
 description: " We do not use cookies and we do not collect any personal data."
 draft: false
 tags: ["Privacy"]

@@ -1,7 +1,7 @@
 author = "Filipe Carneiro"
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'http://localhost:65145/hugo-bootstrap-theme/'
 copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
-title = "Hugo Bootstrap Theme"
+title = "Brain Chip Memory Recorder"
 
 timeZone = 'Europe/London'
 
@@ -17,6 +17,12 @@ enableRobotsTXT = true
 enableEmoji = true
 #sectionPagesMenu = "main"
 #googleAnalytics = "UA-1511XXXX-X"
+
+# Site Parameters
+[params]
+  description = "Never forget another important moment with Brain Chip Memory Technology"
+  images = ['images/brainchip.png','images/site-feature-image.png']
+  mainMenuLogo = "images/brainchip.png"
 
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
@@ -47,3 +53,9 @@ target = "assets"
 [[module.mounts]]
 source = "static"
 target = "static"
+
+[server]
+[[server.headers]]
+for = "/images/**"
+[server.headers.values]
+Access-Control-Allow-Origin = "*"
