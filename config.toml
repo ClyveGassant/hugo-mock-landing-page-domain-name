@@ -1,5 +1,5 @@
 author = "Clyve Gassant"
-baseURL = 'https://ClyveGassant.github.io/hugo-mock-landing-page-autodeployed/'
+baseURL = 'https://<GitHub username>.github.io/hugo-mock-landing-page-domain-name/'
 copyright = "Clyve Gassant"
 title = "Brain Chip Memory Recorder"
 
